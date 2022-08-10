@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analytics, Web Development, Software Development and much more...
 - 🌱 I’m currently learning *DevOps*
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me [Email]web.macvinay@gmail.com
+- 📫 How to reach me [My Email](web.macvinay@gmail.com)
 
 <!---
 V3275/V3275 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
